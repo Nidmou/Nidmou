@@ -1,5 +1,5 @@
 <h1 align="center">I'm Nidal 👩🏻‍💻</h1>
-<h3 align="center">A Product Manager from Paris</h3>
+<h3 align="center">A Product Manager || Full-stack web dev from Paris</h3>
 
 - 📫 How to reach me **nid.pro95@gmail.com**
 
